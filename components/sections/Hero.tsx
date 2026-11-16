@@ -32,7 +32,7 @@ export function Hero() {
             transition={{ duration: 0.6, delay: 0.05 }}
             className="mt-4 text-4xl font-bold leading-[1.08] tracking-tight text-white md:text-5xl lg:text-6xl"
           >
-            Reliable Logistics Solutions Across India.
+            Reliable Logistics Solutions Across India
           </motion.h1>
 
           <motion.p
